@@ -1,6 +1,6 @@
 # minipass-flush
 
-A Minipass stream that calls a flush function before emitting 'end'
+A Minipass stream that calls a flush function before emitting 'end' .
 
 ## USAGE
 
